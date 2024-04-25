@@ -15,5 +15,5 @@ Best three options (results overlapp):
 9x9 with obstacles (in black): 2 options
 ![image](https://github.com/MThomasThlink/PathFinderViewer/assets/151654642/d1d6d902-15c8-4cf0-a41e-6f6ba89013a3)
 
-
+There are evident restrictions related to grid size and amount of obstacles, making the use or more efficient algorithms, as Dijkstra's.
 
